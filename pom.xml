@@ -11,6 +11,7 @@
 
     <modules>
         <module>retrofit2-client</module>
+        <module>wiremock-stubs</module>
     </modules>
 
     <properties>
