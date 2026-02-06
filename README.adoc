@@ -11,8 +11,8 @@
 
 === Tools
 
-* https://petstore3.swagger.io/ - Swagger UI
-* https://editor.swagger.io/ - Swagger Editor
+* Swagger UI ➡️ https://petstore3.swagger.io/
+* Swagger Editor ➡️ https://editor.swagger.io/
 
 === Older Swagger v2
 
