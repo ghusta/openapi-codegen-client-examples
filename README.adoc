@@ -21,3 +21,12 @@
 === GitHub repo
 
 * https://github.com/swagger-api/swagger-petstore
+
+== Notes
+
+=== Bugs
+
+Bug when rendering OpenAPI with Swagger UI in IntelliJ, when `openapi: 3.0.4` :
+
+* https://youtrack.jetbrains.com/projects/IJPL/issues/IJPL-181488/OpenAPI-Swagger-preview-unable-to-render-openapi-3.0.4
+
