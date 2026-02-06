@@ -16,6 +16,7 @@
 
         <retrofit.version>3.0.0</retrofit.version>
         <jackson.version>2.21.0</jackson.version>
+        <rxjava.version>3.1.12</rxjava.version>
     </properties>
 
     <dependencyManagement>
@@ -60,7 +61,7 @@
         <dependency>
             <groupId>io.reactivex.rxjava3</groupId>
             <artifactId>rxjava</artifactId>
-            <version>3.1.10</version>
+            <version>${rxjava.version}</version>
         </dependency>
 
         <!-- Option useJakartaEe -->
