@@ -26,7 +26,10 @@
 
 * OpenAPI spec
 ** https://spec.openapis.org/oas/
-* Project https://github.com/OpenAPITools/openapi-generator[openapi-generator]
+* OpenAPI Generator
+** https://github.com/OpenAPITools/openapi-generator[GitHub project]
+** https://openapi-generator.tech/[Site]
+** https://openapi-generator.tech/docs/generators[Doc : generators list]
 
 == Notes
 
