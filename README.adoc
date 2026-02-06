@@ -1,0 +1,23 @@
+= OpenAPI CodeGen Client Examples
+:toc:
+:imagesdir: assets/images
+
+== Petstore OpenAPI
+
+=== Spec
+
+* JSON ➡️ https://petstore3.swagger.io/api/v3/openapi.json
+* YAML ➡️ https://petstore3.swagger.io/api/v3/openapi.yaml
+
+=== Tools
+
+* https://petstore3.swagger.io/ - Swagger UI
+* https://editor.swagger.io/ - Swagger Editor
+
+=== Older Swagger v2
+
+* https://petstore.swagger.io/
+
+=== GitHub repo
+
+* https://github.com/swagger-api/swagger-petstore
